@@ -1,2 +1,2 @@
-# fullStack-hw2
+# fullStack-sql homework
 10.2
